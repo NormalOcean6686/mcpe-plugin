@@ -1,0 +1,7 @@
+name: AdminServiceUI
+main: MaxTheDev\Main
+version: 0.1
+api: 3.0.0-ALPHA11
+commands: 
+  adsvui:
+   description: Admin Menu! 
