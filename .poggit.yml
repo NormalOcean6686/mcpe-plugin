@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/NormalOcean6686/mcpe-plugin
+branches:
+- master
+projects:
+  mcpe-plugin:
+    path: ""
+...
